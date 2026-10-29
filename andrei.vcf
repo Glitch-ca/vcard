@@ -6,6 +6,8 @@ ORG:Sunlite Mortgage
 TITLE:Mortgage Agent
 TEL;TYPE=CELL,VOICE:+14167681568
 EMAIL;TYPE=INTERNET,WORK:andrei.guerts@sunlitemortgage.ca
+item1.URL:https://glitch-ca.github.io/vcard/
+item1.X-ABLabel:My digital card
 URL;TYPE=WORK:https://www.sunlitemortgage.ca/andrei-guerts
 X-SOCIALPROFILE;TYPE=facebook:https://www.facebook.com/profile.php?id=61595
  817716033
